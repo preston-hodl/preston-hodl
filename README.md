@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preston-hodl
 - I’m interested in Bitcoin and the lightning network
-- I’m currently learning web development and the Bitcoin protocol
+- I’m currently working on The Odin Project and studying the Bitcoin protocol
 - You can contact me at sellers355@gmail.com or twitter @preston_hodl
 
 <!---
