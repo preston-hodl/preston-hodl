@@ -1,5 +1,5 @@
-- Hello, I’m sourcewire
-- I'm a CS student interested in Bitcoin, the Lightning Network, and cybersecurity.
+- Hello, I’m sourcewire.
+- I'm a junior at university studying computer science and cybersecurity.
 
 <!---
 preston-hodl/preston-hodl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
